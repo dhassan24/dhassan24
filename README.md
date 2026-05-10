@@ -1,11 +1,22 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**dhassan24/dhassan24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Danya Hassan
+Computational biologist | MS Human Genetics and Genomic Data Analysis @ KGI
 
-Here are some ideas to get you started:
+### Skills
+| Domain | Tools |
+|--------|-------|
+| Alignment | HISAT2, minimap2, BWA |
+| Variant calling | Sniffles2, GATK |
+| RNA-seq | DESeq2, edgeR, Seurat |
+| Languages | R, Python, Bash |
+| Reproducibility | Docker, conda, Snakemake |
 
-- 🔭 I’m currently working on ...
+### Projects
+- 🧬 [Paired-End RNA-seq Pipeline](link) — HISAT2 + featureCounts + DESeq2
+- 🔬 [ONT SV/CNV Pipeline](link) — minimap2 + Sniffles2, long-read SV calling
+- 🧫 [scRNA-seq PBMC Analysis](link) — Seurat, SoupX, scDblFinder
+- 📊 [ChIP-seq Visualization](link) — trackplot + ENCODE data + Docker
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

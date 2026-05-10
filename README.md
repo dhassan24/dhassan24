@@ -2,15 +2,9 @@
 
 ## Danya Hassan
 Computational biologist | MS Human Genetics and Genomic Data Analysis @ KGI
-
-### Skills
-| Domain | Tools |
-|--------|-------|
-| Alignment | HISAT2, minimap2, BWA |
-| Variant calling | Sniffles2, GATK |
-| RNA-seq | DESeq2, edgeR, Seurat |
-| Languages | R, Python, Bash |
-| Reproducibility | Docker, conda, Snakemake |
+I'm exploring opportunities where I can contribute to the growth of precision medicine projects, through bioinformatics analysis.
+I am fascinated by how we can levarage signal-rich data from multi-omic modalities and use their features to engineer meaningful
+representations of this information through mathematical modeling, deep learning, and machine learning.
 
 ### Projects
 - 🧬 [Paired-End RNA-seq Pipeline](link) — HISAT2 + featureCounts + DESeq2

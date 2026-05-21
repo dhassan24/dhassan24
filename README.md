@@ -8,10 +8,10 @@ I am fascinated by how we can levarage signal-rich data from multi-omic modaliti
 representations of this information through mathematical modeling, deep learning, and machine learning.
 
 ### Projects
-- 🧬 [Paired-End RNA-seq Pipeline](link) — HISAT2 + featureCounts + DESeq2
-- 🔬 [ONT SV/CNV Pipeline](link) — minimap2 + Sniffles2, long-read SV calling
-- 🧫 [scRNA-seq PBMC Analysis](link) — Seurat, SoupX, scDblFinder
-- 📊 [ChIP-seq Visualization](link) — trackplot + ENCODE data + Docker
+- 🧬 [Paired-End RNA-seq Pipeline]([link](https://github.com/dhassan24/PairedReads_RNASeq_Pipeline)) — HISAT2 + featureCounts + DESeq2
+- 🔬 [ONT SV/CNV Pipeline]([link](https://github.com/dhassan24/ONT_LongReadSequencing_Pipeline)) — minimap2 + Sniffles2, long-read SV calling
+- 🧫 [scRNA-seq PBMC Analysis]([link](https://github.com/dhassan24/SCRNA_Seq_Pipeline)) — Seurat, SoupX, scDblFinder
+- 📊 [ChIP-seq Visualization]([link](https://github.com/dhassan24/trackplot_CHIPSeq/tree/main)) — trackplot + ENCODE data + Docker
 - 🌱 I’m currently learning more about applications of deep learning in multi-omic contexts, through the _Deep Learning for Biology_ textbook
 - 📫 How to reach me: dhassan24@kgi.edu
 - 😄 Pronouns: She/Her

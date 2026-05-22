@@ -7,6 +7,9 @@ I'm exploring opportunities where I can contribute to the growth of precision me
 I am fascinated by how we can levarage signal-rich data from multi-omic modalities and use their features to engineer meaningful
 representations of this information through mathematical modeling, deep learning, and machine learning.
 
+### Capstone
+- :chart_with_upwards_trend: [Markov Modeling of AML Transcriptome State-Transitions](https://github.com/dhassan24/MarkovModel_AMLStateSpace) - Generating AML Transcriptome State-Space, Monte Carlo Simulations, Transition Matrix Engineering, and TradeSeq Gene Cluster Analysis
+  
 ### Projects
 - 🧬 [Paired-End RNA-seq Pipeline](https://github.com/dhassan24/PairedReads_RNASeq_Pipeline) — HISAT2 + featureCounts + DESeq2
 - 🔬 [ONT SV/CNV Pipeline](https://github.com/dhassan24/ONT_LongReadSequencing_Pipeline) — minimap2 + Sniffles2, long-read SV calling

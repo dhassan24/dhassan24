@@ -16,6 +16,6 @@ representations of this information through mathematical modeling, deep learning
 - 🧫 [scRNA-seq PBMC Analysis](https://github.com/dhassan24/SCRNA_Seq_Pipeline) — Seurat, SoupX, scDblFinder
 - 🗺️ [GWAS Admixture for Ancestry Analysis](https://github.com/dhassan24/gwas_admixture_pipeline) - PLINK, Streamlit, Ancestry Database
 - 📊 [ChIP-seq Visualization](https://github.com/dhassan24/trackplot_CHIPSeq/tree/main) — trackplot + ENCODE data + Docker
-- 🌱 I’m currently learning more about applications of deep learning in multi-omic contexts, through the _Deep Learning for Biology_ textbook
+- 🌱 I’m currently learning more about applications of deep learning in multi-omic contexts, through the [_Deep Learning for Biology_](https://github.com/dhassan24/DeepLearning_For_Biology) textbook
 - 📫 How to reach me: dhassan24@kgi.edu
 - 😄 Pronouns: She/Her

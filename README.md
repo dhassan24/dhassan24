@@ -14,6 +14,7 @@ representations of this information through mathematical modeling, deep learning
 - 🧬 [Paired-End RNA-seq Pipeline](https://github.com/dhassan24/PairedReads_RNASeq_Pipeline) — HISAT2 + featureCounts + DESeq2
 - 🔬 [ONT SV/CNV Pipeline](https://github.com/dhassan24/ONT_LongReadSequencing_Pipeline) — minimap2 + Sniffles2, long-read SV calling
 - 🧫 [scRNA-seq PBMC Analysis](https://github.com/dhassan24/SCRNA_Seq_Pipeline) — Seurat, SoupX, scDblFinder
+- 🗺️ [GWAS Admixture for Ancestry Analysis] (https://github.com/dhassan24/gwas_admixture_pipeline) - PLINK, Streamlit, Ancestry Database
 - 📊 [ChIP-seq Visualization](https://github.com/dhassan24/trackplot_CHIPSeq/tree/main) — trackplot + ENCODE data + Docker
 - 🌱 I’m currently learning more about applications of deep learning in multi-omic contexts, through the _Deep Learning for Biology_ textbook
 - 📫 How to reach me: dhassan24@kgi.edu

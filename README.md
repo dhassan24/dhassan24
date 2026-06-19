@@ -10,7 +10,7 @@ representations of this information through mathematical modeling, deep learning
 ### Capstone
 - :chart_with_upwards_trend: [Markov Modeling of AML Transcriptome State-Transitions](https://github.com/dhassan24/MarkovModel_AMLStateSpace) - Generating AML Transcriptome State-Space, Monte Carlo Simulations, Transition Matrix Engineering, and TradeSeq Gene Cluster Analysis
   
-### Selected Projects
+### Favorite Projects
 - 🧬 [Paired-End RNA-seq Pipeline](https://github.com/dhassan24/PairedReads_RNASeq_Pipeline) — HISAT2 + featureCounts + DESeq2
 - 🔬 [ONT SV/CNV Pipeline](https://github.com/dhassan24/ONT_LongReadSequencing_Pipeline) — minimap2 + Sniffles2, long-read SV calling
 - 🧫 [scRNA-seq PBMC Analysis](https://github.com/dhassan24/SCRNA_Seq_Pipeline) — Seurat, SoupX, scDblFinder

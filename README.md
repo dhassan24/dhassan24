@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 🙂
 
 ## Danya Hassan
 Computational biologist | MS Human Genetics and Genomic Data Analysis @ KGI
